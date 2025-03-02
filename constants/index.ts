@@ -15,7 +15,7 @@ export const technologies = [
     {
       title: "E-Commerce Platform",
       description: "A full-featured e-commerce platform with real-time inventory management, secure payments, and an intuitive admin dashboard.",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&h=600&fit=crop",
+      image: '/public/ecomm.svg',
       technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Stripe", "PostgreSQL"],
       liveUrl: "https://ecommerce-demo.com",
       githubUrl: "https://github.com/johndoe/ecommerce",
@@ -29,7 +29,7 @@ export const technologies = [
     {
       title: "AI-Powered Task Manager",
       description: "Smart task management application that uses AI to prioritize and categorize tasks, with team collaboration features.",
-      image: "https://images.unsplash.com/photo-1554774853-aae0a22c8aa4?w=800&h=600&fit=crop",
+      image: '/public/task.svg',
       technologies: ["React", "Node.js", "OpenAI", "MongoDB", "WebSocket"],
       liveUrl: "https://taskmanager-demo.com",
       githubUrl: "https://github.com/johndoe/taskmanager",
@@ -43,7 +43,7 @@ export const technologies = [
     {
       title: "Social Media Analytics",
       description: "Comprehensive social media analytics platform providing insights and engagement metrics across multiple platforms.",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+      image: '/public/analyt.svg',
       technologies: ["Vue.js", "Python", "D3.js", "AWS", "Redis"],
       liveUrl: "https://analytics-demo.com",
       githubUrl: "https://github.com/johndoe/analytics",
